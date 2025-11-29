@@ -2,7 +2,6 @@
 
 这个 Worker 脚本用于监控和自动重启 Databricks App，确保它们保持运行状态。
 
-Databricks部署节点视频教程：https://youtu.be/r35kK77PlLg
 
 ## 部署指南
 
