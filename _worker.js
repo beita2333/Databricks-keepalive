@@ -1,4 +1,4 @@
-// 环境变量优先，没有则使用代码里填写的
+// 环境变量优先，没有则使用代码里填写的.
 const DEFAULT_CONFIG = {
   DATABRICKS_HOST: 'https://abc-1223456789.cloud.databricks.com',    // (必填)直接在单引号内填写工作区host或添加环境变量,变量名：DATABRICKS_HOST
   DATABRICKS_TOKEN: 'dapi6dae4632d66931ecdeefe8808f12678dse',        // (必填)直接在单引号内填写token或添加环境变量,变量名：DATABRICKS_TOKEN
