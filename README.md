@@ -1,4 +1,4 @@
-# Databricks Keep-Alive Workers 部署说明
+# Databricks Keep-Alive Workers 部署说明.
 
 这个 Worker 脚本用于监控和自动重启 Databricks App，确保它们保持运行状态。
 
